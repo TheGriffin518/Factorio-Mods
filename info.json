@@ -1,0 +1,11 @@
+{
+ "name": "Crafting_Speed_Research",
+ "version": "0.1.5",
+ "title": "Crafting Speed Research",
+ "author": "James",
+ "contact": "",
+ "homepage": "https://github.com/TheGriffin518",
+ "factorio_version": "0.15",
+ "dependencies": ["base >= 0.15"],
+ "description": "This mod adds research to increase the player crafting speed"
+ }
